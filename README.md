@@ -1,3 +1,4 @@
+
 # Study Assistant
 
 ## Descripción
@@ -19,3 +20,5 @@ Study Assistant es una aplicación de consola desarrollada en Python para ayudar
 ```bash
 python main.py
 ```
+# StudyAssistant
+StudyAssistant
